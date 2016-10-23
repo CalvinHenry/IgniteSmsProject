@@ -1,0 +1,27 @@
+{
+  "name": "ignitesmsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalvinHenry/IgniteSmsProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalvinHenry/IgniteSmsProject/issues"
+  },
+  "homepage": "https://github.com/CalvinHenry/IgniteSmsProject#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "google-scraper": "^1.0.3",
+    "node-summary": "^1.1.0",
+    "request": "^2.75.0",
+    "unfluff": "^1.1.0"
+  }
+}
